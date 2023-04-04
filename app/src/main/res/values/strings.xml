@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Screen</string>
+    <string name="Started">Hello!</string>
+
+    <string name="sub_titel">Nice to meet you, come join to our application!</string>
+    <string name="food_img">food img</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="login_email">your email or username</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="password_txt">password</string>
+
+</resources>
